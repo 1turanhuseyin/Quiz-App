@@ -1,0 +1,50 @@
+[
+    {
+        "question": "Cümleyi tamamlayın: 'Düşünüyorum, öyleyse ...'? ",
+        "choice1": "Hatırlarım",
+        "choice2": "Fark ederim",
+        "choice3": "Varım",
+        "choice4": "Bağırırım",
+        "answer": 3
+    },
+    {
+        "question": "Paros adası nerededir?",
+        "choice1": "Yunanistan",
+        "choice2": "Afrika",
+        "choice3": "İtalya",
+        "choice4": "Filipinler",
+        "answer": 1
+    },
+    {
+        "question": "Sarımsak ile ünlü hangisidir?",
+        "choice1": "Muğla-Bodrum",
+        "choice2": "Edirne-Vezirköprü",
+        "choice3": "Kastamonu-Taşköprü",
+        "choice4": "Tekirdağ-Malkara",
+        "answer": 3
+    },
+    {
+        "question": "En fazla sınır komşusuna sahip olan ülke hangisidir?",
+        "choice1": "Rusya",
+        "choice2": "Çin",
+        "choice3": "Brezilya",
+        "choice4": "Türkiye",
+        "answer": 2
+    },
+    {
+        "question": "Aşağıda verilen ilk çağ uygarlıklarından hangisi yazıyı icat etmiştir?",
+        "choice1": "Hititler",
+        "choice2": "Elamlar",
+        "choice3": "Sümerler",
+        "choice4": "Urartular",
+        "answer": 3
+    },
+    {
+        "question": "Dünyada bilinen en eski enstrüman hangisidir?",
+        "choice1": "Def",
+        "choice2": "Gitar",
+        "choice3": "Davul",
+        "choice4": "Flüt",
+        "answer": 4
+    }
+]
